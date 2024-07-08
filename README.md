@@ -1,4 +1,4 @@
-### Names Network Client Service
+### WebServices Client Service
 
 This document describes the Names Network Client Service application, its features, setup, and usage. The application enables clients to interact with the Names Network Service to query and manage names.
 
@@ -14,7 +14,7 @@ The backend server is built using Spring Boot-
 
 ## Author
 
-- Your Name - [GitHub](https://github.com/https://github.com/JohannBulls/SparkWebApp)
+- Your Name - [GitHub](https://github.com/https://github.com/JohannBulls/WebServices)
 
 ## License
 
